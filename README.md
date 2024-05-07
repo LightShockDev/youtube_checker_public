@@ -14,3 +14,5 @@ NAME LINK URL
 In tg bot u can receive URL addres. More information in func help_message 
 
 WARNING! TG BOT NOT STABLE AND CAN HAVE CRACK AT ANY MOMENT
+
+If u don't need tg bot, and need ONLY script, don't comment 240 line in tube.py
