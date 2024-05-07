@@ -12,7 +12,7 @@ def help_message(message):
     string_for_help_msg = 'Команды: \nsee 1 - вывод отслеживаемых каналов построчно\nsee 2 - вывод отслеживаемых каналов 1 сообщением\n'
     string_for_help_msg += 'add Name_channel https://www.youtube.com/@Name_channel URL - добавляет новый канал\n'
     string_for_help_msg += 'del Name_channel - удаляет канал по имени\n'
-    string_for_help_msg += '@Name_channel - выводид URL канала\n'
+    string_for_help_msg += '@Name_channel - выводит URL канала\n'
     string_for_help_msg += 'parsing - Присылает файл с отслеживанием каналов'
     bot.send_message(message.chat.id, string_for_help_msg)
 
